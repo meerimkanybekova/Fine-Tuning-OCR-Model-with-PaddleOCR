@@ -1,6 +1,6 @@
 # Fine-Tuning OCR Model with PaddleOCR
 
-![Alt Text](https://github.com/Dmitry543/finetune_paddle_ocr/blob/main/documentation/get_your_OCR_model_finally_customized.gif)
+![Alt Text](https://github.com/Dmitry543/Fine-Tuning-OCR-Model-with-PaddleOCR/blob/main/documentation/get_your_OCR_model_finally_customized.gif)
 
 ## Quick Start
 
@@ -25,7 +25,7 @@ This project provides a comprehensive guide and codebase for fine-tuning the OCR
 
 ## Error Handling
 
-If you encounter any issues during the fine-tuning process, please refer to our [Error Handling Guide](https://github.com/Dmitry543/finetune_paddle_ocr/blob/main/documentation/error_handling.md). This guide provides solutions to common errors and troubleshooting tips.
+If you encounter any issues during the fine-tuning process, please refer to our [Error Handling Guide](https://github.com/Dmitry543/Fine-Tuning-OCR-Model-with-PaddleOCR/blob/main/documentation/error_handling.md). This guide provides solutions to common errors and troubleshooting tips.
 
 ## Acknowledgments
 
